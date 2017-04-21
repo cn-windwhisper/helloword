@@ -1,0 +1,7 @@
+###Q:when use "git push",when we input the "user name" and "password" of github,also prompt 
+     "fatal:Authentication failed for 'https://github.com/.......'"......[how to solve this problem?]
+   A:you should update username and useremail!
+   	 code:  ##git config --global user.name "xxx"
+   	 		##git config --global user.email "xxx@xxmail.com"
+
+###
